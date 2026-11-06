@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ===== Project-specific =====
+# Raw EEG data (several GB, re-downloadable from OpenNeuro)
+data/
+
+# Large intermediate files
+results/*_epochs.npz
+*.pkl
+
+# Downloaded LLM weights
+models/
+
+# Secrets (tokens and passwords)
+.env
+
+# Virtual environment
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
