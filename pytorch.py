@@ -1,3 +1,13 @@
+# HOW TO USE
+
+# 1. Make a Hugging Face account, open https://huggingface.co/meta-llama/Llama-3.2-1B while logged in, and fill out the license form. Wait for approval.
+
+# 2. In your Hugging Face account, go to Settings, then Access Tokens, and create a token of type “Read.” Copy it.
+
+# 3. Run this: python -c "from huggingface_hub import login; login()"
+
+# Only then can you run the actual program
+
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
