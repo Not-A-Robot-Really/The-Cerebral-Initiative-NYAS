@@ -77,6 +77,10 @@ Paper: Chandravadia et al. (2022), medRxiv 2022.06.24.22276882
   and average reference. Largest: P10 (1.53), P11 (0.95), P07 (0.88).
 - Very noisy: P05 (noise_sd 117.7 uV) and P10 (357.6 uV, likely one bad channel).
   Inclusion decided by the pre-set AUC < 0.6 rule (Part 9).
+- LDA (shrinkage, 2-fold CV): mean test AUC = 0.962 (range 0.885-0.998)
+- Train (out-of-fold) and test AUCs similar for all -> no overfitting/leakage
+- No participant below AUC 0.6 -> all 11 included (incl. noisy P05, P10)
+- Lowest: P10 fold-2 (0.885), P11 fold-1 (0.911)
 
 ## Train/test split
 - Only ses-train, task-rc (2 runs per subject, 10 characters each).

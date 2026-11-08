@@ -39,6 +39,34 @@ PsychoPy’s interface uses keyboard input, which mimics but does not perfectly 
 
 Our final solution will be viable because we will be able to utilize the results of our research & experiments to determine the best combination of features to optimize for speed while retaining accuracy. We use a pre-existing classifier and dataset for reliability, maximizing viability.
 
+# Instructions (aka Classifier outputs)
+
+Run order:
+```
+python scripts/01_preprocess.py
+python scripts/01b_plot_erp.py
+python scripts/02_train_lda.py
+```
+
+For each participant (P01-P11) and fold (1, 2):
+
+`results/PXX_fold-K_scores.npz`
+- `test_scores`: LDA score for each test flash (higher = more target-like)
+- `test_y`: 1 = flash contained the target, 0 = not
+- `test_code`: which row/column flashed (1-6 = rows, 7-12 = columns)
+- `test_char`: which character of the phrase (0-9); each has 120 flashes = 10 sequences x 12
+- `test_text`: the phrase being spelled ('THE QUICK ' or 'BROWN FOX ')
+- `train_*`: same fields for the training run (out-of-fold scores), for tuning
+- `grid`: the 36 characters in order; index = (row-1)*6 + (col-1); 'sp' = space
+
+`results/PXX_fold-K_dist.json`: `target_mean`, `target_sd`, `nontarget_mean`, `nontarget_sd`
+(from the training run only)
+
+`results/lda_summary.json`: train/test AUC for every subject and fold
+
+Timing: 125 ms per flash, 1.5 s per sequence, 3.5 s pause per character
+(baseline = 10 sequences = 18.5 s per character). N = 36.
+
 # Bibliography:
 
 7135-the-cerebral-initiative
