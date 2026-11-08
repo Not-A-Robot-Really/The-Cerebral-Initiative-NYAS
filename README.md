@@ -4,9 +4,19 @@ Offline simulation using OpenNeuro data. Analyzing a P300 speller, combining an 
 # Hypothesis
 *In an offline simulation on OpenNeuro data, a P300 speller combining an LLM-based Phrase Prediction system (Llama 3.2) along with Adaptive Bayesian Early Stopping will increase Information Transfer Rate (ITR) by at least 10% relative to the baseline P300 speller while maintaining at least 90% of the initial baseline accuracy.*
 
+
+## OpenNeuro Data Retrieval
+The raw EEG data is not stored directlt in this repository. Download it with:
+​```
+openneuro-py download --dataset ds005028 --target-dir data/ds005028
+​```
+Source: Chandravadia et al. (2024), OpenNeuro ds005028, doi:10.18112/openneuro.ds005028.v1.0.0
+```
+https://openneuro.org/datasets/ds005028/versions/1.0.0
+
 # Research Plan:
 
-We will run four simulations. We will run each 11 times, one for each participant (P_01 to P_11) in the dataset.
+We will run 4 simulations. We will run each 11 times, one for each participant (P_01 to P_11) in the dataset.
 
 Control group: First, we will conduct an offline simulation with a baseline P300 speller as our control case. The speller will be generic, modeled after the speller used in the dataset.
 Next, we will conduct an offline simulation with an Adaptive Bayesian Early Stopping system with the P300 speller.
