@@ -1,6 +1,7 @@
 aiofiles==25.1.0
 annotated-doc==0.0.5
 annotated-types==0.8.0
+BCI2kReader==0.32.dev0
 bracex==3.2.1
 certifi==2026.10.23
 charset-normalizer==3.5.2
