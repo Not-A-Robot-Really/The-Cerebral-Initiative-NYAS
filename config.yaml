@@ -15,7 +15,7 @@ decim_to_hz: 20
 # ===== Channels =====
 channels: [Fz, Cz, Pz, Oz, P3, P4, PO7, PO8]
 
-# ===== Placeholder Val =====
+# ===== Placeholder Val! =====
 task: null
 train_runs: []
 test_runs: []
