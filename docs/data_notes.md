@@ -35,8 +35,13 @@ Paper: Chandravadia et al. (2022), medRxiv 2022.06.24.22276882
 - Pre-character pause 2000 ms; post-character pause 1500 ms
 - Time per character (baseline): 10*12*0.125 + 2.0 + 1.5 = 18.5 s
   (recorded run is ~202 s for 10 chars; extra time is start/end padding)
-- Code convention: TODO (from Part 7 decode check: A = codes 1-6 columns,
-  7-12 rows; or B = the reverse)
+- Code convention: B. StimulusCode 1-6 = ROWS (top to bottom),
+  7-12 = COLUMNS (left to right). Verified: decoded text matches TextToSpell
+  for sub-01 ('THE QUICK ', 'BROWN FOX '). Space key shows as 'sp'.
+  Grid index = (row-1)*6 + (col-1)
+- Preprocessing: 0.5-20 Hz band-pass, 60 Hz notch, average reference (32 ch),
+  epochs -0.1 to 0.8 s, baseline -0.1 to 0, downsampled to 64 Hz
+  (>= 3x low-pass, avoids aliasing), features = 0-0.8 s x 10 channels (~520)
 
 ## Phrases (same for all 11 subjects)
 - rc run 1 of each subject: 'THE QUICK ' (10 characters incl. trailing space)
