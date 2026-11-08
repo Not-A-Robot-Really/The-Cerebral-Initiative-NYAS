@@ -22,7 +22,7 @@ notch: 60
 # ===== Epochs (seconds relative to each flash) =====
 tmin: -0.1
 tmax: 0.8
-decim_to_hz: 20
+decim_to_hz: 64
 
 # ===== Channels (P3/P4 don't exist here, using P1/P2) =====
 channels: [Fz, Cz, CPz, Pz, POz, P1, P2, PO7, PO8, Oz]

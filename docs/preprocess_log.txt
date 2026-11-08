@@ -1,0 +1,200 @@
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+WARNING: failed to interpret "auto" as type int in parameter "VisualizeSourceBufferSize"
+C:\Users\haolh\Documents\The-Cerebral-Initiative-NYAS\.venv\Lib\site-packages\BCI2kReader\FileReader.py:270: RuntimeWarning: invalid value encountered in cast
+  states[statename] = numpy.array(sd['mult'] * numpy.asmatrix(rawstates[sd['slice'], :] & sd['mask']),
+
+=== Subject 01: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 02: 2 rc runs ===
+ run 3: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 6: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 03: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 04: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 05: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 06: 2 rc runs ===
+ run 3: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 6: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 07: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 08: 2 rc runs ===
+ run 1: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 4: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 09: 2 rc runs ===
+ run 1: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 4: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 10: 2 rc runs ===
+ run 3: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 6: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+=== Subject 11: 2 rc runs ===
+ run 2: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'THE QUICK '
+   Decoded (A) : 'JHYsp1PNMZsp'
+   Decoded (B) : 'THEspQUICKsp'
+ run 5: 1200 flashes, 10 characters, flashes/char = [120]
+   kept 1200 epochs | X shape (1200, 520) | target rate 0.167
+   TextToSpell : 'BROWN FOX '
+   Decoded (A) : 'G7O2Isp5O8sp'
+   Decoded (B) : 'BROWNspFOXsp'
+
+Done.
