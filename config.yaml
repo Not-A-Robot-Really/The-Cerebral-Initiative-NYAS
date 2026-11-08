@@ -1,0 +1,21 @@
+# ===== General =====
+seed: 42
+bids_root: data/ds005028
+
+# ===== Filtering =====
+l_freq: 0.5      # high-pass aka it removes slow drift
+h_freq: 20       # low-pass aka it removes fast noise (P300 is slow)
+notch: 60        # power-line frequency (60 = US, 50 = Europe/Asia)
+
+# ===== Epochs =====
+tmin: -0.1
+tmax: 0.8
+decim_to_hz: 20
+
+# ===== Channels =====
+channels: [Fz, Cz, Pz, Oz, P3, P4, PO7, PO8]
+
+# ===== Placeholder Val =====
+task: null
+train_runs: []
+test_runs: []
