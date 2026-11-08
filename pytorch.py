@@ -8,6 +8,9 @@
 
 # Only then can you run the actual program
 
+# NOTE: maybe have the user select if the word is adjective, verb, noun, etc. Maybe try to make it IDEAS based rather than words.
+# Make classes of sentences (categorize), focus on one of them to represent IDEAS
+
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
@@ -17,7 +20,7 @@ model = AutoModelForCausalLM.from_pretrained(
     name, torch_dtype=torch.bfloat16, device_map="auto"
 )
 
-text = "The most famous Russian composer is" # input
+text = "The most influential person ever is" # input
 from collections import defaultdict
 
 TOP_K = 5          # branches per node
