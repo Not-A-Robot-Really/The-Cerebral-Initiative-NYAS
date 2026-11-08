@@ -70,6 +70,14 @@ Paper: Chandravadia et al. (2022), medRxiv 2022.06.24.22276882
 - StimulusType: 1 = flash contained the target; 0 = not
 - New character = gap > 1 s between flash onsets (120 flashes per character)
 
+## Classifier results
+
+- ERP (Part 8): P300 difference at Pz (250-500 ms) small for most participants
+  (-0.2 to +1.5 uV), likely reduced by overlapping epochs (125 ms between flashes)
+  and average reference. Largest: P10 (1.53), P11 (0.95), P07 (0.88).
+- Very noisy: P05 (noise_sd 117.7 uV) and P10 (357.6 uV, likely one bad channel).
+  Inclusion decided by the pre-set AUC < 0.6 rule (Part 9).
+
 ## Train/test split
 - Only ses-train, task-rc (2 runs per subject, 10 characters each).
 - 2-fold cross-validation: train THE QUICK -> test BROWN FOX, and the reverse.
