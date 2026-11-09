@@ -31,3 +31,13 @@ channels: [Fz, Cz, CPz, Pz, POz, P1, P2, PO7, PO8, Oz]
 session: train
 task: rc
 cv: two_fold                # train on one rc run, test on the other, then swap
+
+# ===== Adaptive Bayesian early stopping + LLM =====
+bayes:
+  thresholds: [0.80, 0.85, 0.90, 0.95, 0.99]   # tuned per fold on the TRAINING run
+  min_seq: 1                                   # minimum sequences before stopping is allowed
+llm:
+  weights: [0.5, 1.0, 2.0]                     # how much to trust Llama, tuned per fold
+heldout:
+  phrases: ["I NEED WATER", "PLEASE CALL MY NURSE", "I AM COLD", "TURN ON THE TV", "THANK YOU"]
+  reps: 10                                     # simulated repetitions per phrase
