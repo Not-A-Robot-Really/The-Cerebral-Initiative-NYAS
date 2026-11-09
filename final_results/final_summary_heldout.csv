@@ -1,0 +1,5 @@
+condition,ITR_mean,ITR_sd,ITR_change_%,accuracy_mean,accuracy_vs_baseline,sec_per_char,seq_per_char,wilcoxon_p,significant,PASS
+baseline,16.767,0.0,0.0,1.0,1.0,18.5,10.0,,,
+bayes,46.535,9.627,177.533,0.956,0.956,6.391,1.927,0.001,True,True
+llm,16.704,0.209,-0.375,0.998,0.998,18.5,10.0,1.0,False,False
+combined,47.264,9.821,181.879,0.946,0.946,6.117,1.745,0.001,True,True
