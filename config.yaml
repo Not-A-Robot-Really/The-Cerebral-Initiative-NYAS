@@ -1,0 +1,33 @@
+# ===== General =====
+seed: 42
+bids_root: data/ds005028
+file_ext: .dat              # BCI2000 files (the .edf files are unusable)
+
+# ===== Speller (from the .dat parameters) =====
+sfreq: 256
+grid_rows: 6
+grid_cols: 6
+n_sequences: 10
+flashes_per_sequence: 12
+flash_ms: 62.5
+isi_ms: 62.5
+pre_char_ms: 2000
+post_char_ms: 1500
+
+# ===== Filtering =====
+l_freq: 0.5
+h_freq: 20
+notch: 60
+
+# ===== Epochs (seconds relative to each flash) =====
+tmin: -0.1
+tmax: 0.8
+decim_to_hz: 64
+
+# ===== Channels (P3/P4 don't exist here, using P1/P2) =====
+channels: [Fz, Cz, CPz, Pz, POz, P1, P2, PO7, PO8, Oz]
+
+# ===== Data selection =====
+session: train
+task: rc
+cv: two_fold                # train on one rc run, test on the other, then swap

@@ -1,0 +1,66 @@
+EDF files for subject 01
+   sub-01\ses-test\eeg\sub-01_ses-test_run-1_eeg.edf
+   sub-01\ses-test\eeg\sub-01_ses-test_run-2_eeg.edf
+   sub-01\ses-test\eeg\sub-01_ses-test_run-3_eeg.edf
+   sub-01\ses-test\eeg\sub-01_ses-test_run-4_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-cb_run-3_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-cb_run-6_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-comb_run-1_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-comb_run-4_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-rc_run-2_eeg.edf
+   sub-01\ses-train\eeg\sub-01_ses-train_task-rc_run-5_eeg.edf
+
+======================================================================
+FILE: sub-01_ses-train_task-rc_run-2_eeg.edf
+======================================================================
+Sampling rate: 51712.0 Hz
+Channels (32): ['Signal_1', 'Signal_2', 'Signal_3', 'Signal_4', 'Signal_5', 'Signal_6', 'Signal_7', 'Signal_8', 'Signal_9', 'Signal_10', 'Signal_11', 'Signal_12', 'Signal_13', 'Signal_14', 'Signal_15', 'Signal_16', 'Signal_17', 'Signal_18', 'Signal_19', 'Signal_20', 'Signal_21', 'Signal_22', 'Signal_23', 'Signal_24', 'Signal_25', 'Signal_26', 'Signal_27', 'Signal_28', 'Signal_29', 'Signal_30', 'Signal_31', 'Signal_32']
+Duration: 1.0 s
+No events.tsv found at sub-01_ses-train_task-rc_run-2_events.tsv
+
+EDF annotations: 0
+
+======================================================================
+FILE: sub-01_ses-test_run-1_eeg.edf
+======================================================================
+Sampling rate: 84640.0 Hz
+Channels (32): ['Signal_1', 'Signal_2', 'Signal_3', 'Signal_4', 'Signal_5', 'Signal_6', 'Signal_7', 'Signal_8', 'Signal_9', 'Signal_10', 'Signal_11', 'Signal_12', 'Signal_13', 'Signal_14', 'Signal_15', 'Signal_16', 'Signal_17', 'Signal_18', 'Signal_19', 'Signal_20', 'Signal_21', 'Signal_22', 'Signal_23', 'Signal_24', 'Signal_25', 'Signal_26', 'Signal_27', 'Signal_28', 'Signal_29', 'Signal_30', 'Signal_31', 'Signal_32']
+Duration: 1.0 s
+No events.tsv found at sub-01_ses-test_run-1_events.tsv
+
+EDF annotations: 0
+
+======================================================================
+TOP-LEVEL JSON / TSV FILES
+======================================================================
+
+--- dataset_description.json ---
+{
+    "Name": "Comparing P300 Flashing paradigms in online typing with language models",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.2.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Nand Chandravadia",
+        "Shrita Pendekanti",
+        "Dustin Roberts",
+        "Robert Tran",
+        "Saarang Panchavati",
+        "Corey Arnold",
+        "Nader Pouratian",
+        "William Speier"
+    ],
+    "Acknowledgements": "This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under grant no. DGE-2034835.",
+    "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors.",
+    "Funding": [
+        "National Science Foundation Graduate Research Fellowship Program under grant no. DGE-2034835"
+    ],
+    "EthicsApprovals": [
+        "UCLA IRB #11-002062"
+    ],
+    "ReferencesAndLinks": [
+        "Chandravadia, Pendekanti, Roberts, Tran, Panchavati, Arnold, Pouratian, Speier. Comparing P300 flashing paradigms in online typing with language models. medRxiv 2022.06.24.22276882."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005028.v1.0.0"
+}
